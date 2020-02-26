@@ -14,3 +14,10 @@
 - Belge \[ 벨지 \] - 벨기에인
 - Allemand \[ 알르몽 \] - 독일인
 - Britannique \[ 브r히떼닉끼 \] - 영국인
+
+> In the case of female, they usually add an "E".
+
+- Coréen -> Coréenne \[ 꼬r헤엥 \]
+- Français -> Française \[ 프r헝쎄즈 \]
+- Chinois -> Chinoise \[ 쉬노아즈 \]
+- Belge -> X ("E" is already attached)
