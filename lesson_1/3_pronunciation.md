@@ -13,3 +13,17 @@
 |    ou    | 우            |
 |    oi    | 와            |
 |    au    | 오            |
+
+## C Accent
+
+> "C" pronounces "K" or "S" according to the consonants that follow it.
+
+> To pronounce "C" as "S" requires "Cédille". (Leçon 1.4 Accent)
+
+- \[ K \] Pronunciation
+  - A
+  - O
+  - U
+- \[ S \] Pronunciation
+  - E
+  - I

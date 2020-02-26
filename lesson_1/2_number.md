@@ -5,6 +5,8 @@
 
 ## Chiffres Table
 
+> Like English there are up to 20 words.
+
 | Chiffres | Chiffres | Pronunciation |
 |:--------:|:---------|:--------------|
 |    1     | Un       | 앙            |
