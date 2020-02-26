@@ -27,3 +27,13 @@
 - \[ S \] Pronunciation
   - E
   - I
+
+## G Accent
+
+- \[ K \]
+  - A
+  - O
+  - U
+- \[ J \]
+  - E
+  - I
