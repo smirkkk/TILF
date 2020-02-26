@@ -5,6 +5,10 @@
 
 ## Pronunciation Table
 
+> "R" should be careful with pronunciation.
+
+> "R" should be pronounced with a sputum.
+
 | Symbol | Pronunciation |
 |:------:|:--------------|
 |   A    | 아            |
