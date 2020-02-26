@@ -1,5 +1,5 @@
 
-# Leçon 1 - Alphabet
+# Leçon 1.1 - Alphabet
 
 > Wrote at 2020.02.25
 

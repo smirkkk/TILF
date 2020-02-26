@@ -1,5 +1,5 @@
 
-# Leçon 2 - Chiffres
+# Leçon 1.2 - Chiffres
 
 > Wrote at 2020.02.26
 
