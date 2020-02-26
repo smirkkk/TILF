@@ -5,7 +5,7 @@
 
 ## Pronunciation Table
 
-|    ??    | Pronunciation |
+|  Group   | Pronunciation |
 |:--------:|:--------------|
 |    on    | 옹            |
 |  an/en   | 엉            |
