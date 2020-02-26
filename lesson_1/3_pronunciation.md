@@ -30,6 +30,8 @@
 
 ## G Accent
 
+> The pronunciation of "K" is the same as the rule of "C".
+
 - \[ K \]
   - A
   - O
