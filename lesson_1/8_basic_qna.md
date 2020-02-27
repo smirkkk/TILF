@@ -5,26 +5,31 @@
 
 ## Question
 
-누구 = Qui ?
+> "Who" is "Qui" in french
 
-Je suis qui ? \[ 줘 씌 뀌 ? \]
+- Je suis qui ? \[ 줘 씌 뀌 ? \]
 
+```
 Tu es Chris,
 tu es Belge,
 et tu es Professeur.
+```
 
-et = 그리고
+> "And" is "Et" in french
 
-Tu es qui ? \[ 줘 씌 뀌 ? \]
+- Tu es qui ? \[ 뚜 에 뀌 ? \]
 
+```
 Je suis Minji,
 je suis Coréenne,
 et je suis Étudiant.
+```
 
-Il / Elle est qui ? -> 자연스럽지 않다.
+> "Il / Elle est qui ?" is not natural.
 
-C'est qui ? \[ 씨 뀌 \]
+- Ç'est qui ? \[ 씨 뀌 \]
 
+```
 Il est Taki,
 il est Japonais,
 et il est Docteur.
@@ -32,5 +37,8 @@ et il est Docteur.
 Elle est Scarlett,
 elle est Américains,
 et elle est Actrice.
+```
 
-Vous avez compris ? - 이해하셨어요 ?
+---
+
+- Vous avez compris ? - You understood ?
